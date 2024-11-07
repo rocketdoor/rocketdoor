@@ -2,6 +2,7 @@
 
 ### About me
 🎓 Currently enrolled in Software Engineering at Inatel in Brazil.
+
 📧 My e-mail address is:rcmagalhaes@ges.inatel.br
 
 
